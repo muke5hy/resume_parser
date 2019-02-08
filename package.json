@@ -1,0 +1,23 @@
+{
+  "name": "resume_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "resume-parser": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muke5hy/resume_parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muke5hy/resume_parser/issues"
+  },
+  "homepage": "https://github.com/muke5hy/resume_parser#readme"
+}
